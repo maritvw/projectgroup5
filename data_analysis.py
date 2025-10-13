@@ -12,4 +12,4 @@ df.columns = (
     .str.replace(r'[^\w\d_]+', '', regex=True)
 )
 
-df.to_csv('data_clean.csv', index=False)
+df.to_csv('data/data_clean.csv', index=False)
