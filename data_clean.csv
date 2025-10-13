@@ -1,4 +1,4 @@
-travelmotives,population,travelmodes,margins,regioncharacteristics,periods,averageperpersonperyeartripsnumber,averageperpersonperyeardistancetravelledpassengerkilometres,averageperpersonperyeartimetravelledhours
+travel_motive,population,travel_mode,margins,region,year,trips_per_person,distance_per_person,time_per_person
 Total,Population 6 years or older,Total,Value,The Netherlands,2018.0,1015.0,13200.0,453.8
 Total,Population 6 years or older,Total,Value,The Netherlands,2019.0,989.0,13140.0,452.6
 Total,Population 6 years or older,Total,Value,The Netherlands,2020.0,861.0,9105.0,378.0
