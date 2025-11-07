@@ -15,7 +15,7 @@ The following filters were applied to the dataset:
 - Region characteristics: The Netherlands & Provinces
 - Topic: Average per person per year
 
-This repository contains:
+This [repository](https://github.com/maritvw/projectgroup5) contains:
 - The final report as Jupyter Notebook: [final_report_python_project_group5.ipynb](https://github.com/maritvw/projectgroup5/blob/main/final_report_python_project_group5.ipynb)
 - The final report as HTML: final_report_python_project_group5.html
 - The data used: [data folder](https://github.com/maritvw/projectgroup5/tree/main/data)
