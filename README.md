@@ -2,7 +2,7 @@
 ![MADE WITH JUPYTER](https://img.shields.io/badge/Made%20with-JUPYTER-orange?style=flat&logo=jupyter)
 
 This is a project for the TIL Python Programming course at the TU Delft. 
-This project is made by group 5 and the authors of this project are Djura Beenen, [Daan Boitelle]https://github.com/daanfhb, Marit van Wolffelaar, Lisa Franse and Jord Stubbé.
+This project is made by group 5 and the authors of this project are Djura Beenen, ![Daan Boitelle]https://github.com/daanfhb, Marit van Wolffelaar, Lisa Franse and Jord Stubbé.
 
 The dataset used originates from CBS StatLine and provides detailed statistics on mobility patterns in the Netherlands. It can be accessed in the CBS StatLine database through the following link: https://opendata.cbs.nl/statline/#/CBS/en/dataset/84710ENG/table?ts=1759132886441
 
